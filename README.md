@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Osman Kagan Kurnaz.<br><br>I am a 3rd year student at Selçuk University Computer Engineering. I am trying to improve myself in front end and database software.
+Hi, I am Osman Kagan Kurnaz.<br><br>I am a 4th year student at Selçuk University Computer Engineering. I am trying to improve myself in data science.
 
 
 ## 🌐 Socials:
